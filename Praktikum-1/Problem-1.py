@@ -27,5 +27,5 @@ dikompresi = ukuran_byte * (persen_sisa/100)
 # ukuran ke mb
 ukuran_mb = dikompresi / 1000000
 
-print(f"ukuran file gambar setelah kompresi adalah {ukuran_mb : .2f} MB")
+print(f"ukuran file gambar setelah kompresi adalah {ukuran_mb : .2f} MB") #tes
 
