@@ -1,8 +1,8 @@
 # 📘 Praktikum Berpikir Komputasional 2025
 
-Repository ini berisi kumpulan tugas dan latihan dari mata kuliah **Praktikum Berpikir Komputasional Tahun 2025** yang dikerjakan oleh **Ghina Emelia Yantes**.  
+Repository ini berisi kumpulan praktikum dari mata kuliah **Berpikir Komputasional** yang dikerjakan oleh saya.  
 
-Project ini dibuat sebagai bagian dari proses pembelajaran untuk melatih kemampuan berpikir logis, sistematis, dan terstruktur dalam menyelesaikan masalah menggunakan pendekatan komputasional dan pemrograman Python.
+Praktikum ini ada sebagai bagian dari proses pembelajaran untuk melatih kemampuan berpikir logis, sistematis, dan terstruktur dalam menyelesaikan masalah menggunakan pendekatan komputasional dan pemrograman Python.
 
 ---
 
